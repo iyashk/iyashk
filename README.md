@@ -1,7 +1,7 @@
 ## Hi there 👋
                                                                                                 - Yashwanth Kiran
 ## About Myself
-- I'm and Undergrad Student at Amrita Viswa Vidyapeetham.
+- I'm an Undergrad Student at Amrita Viswa Vidyapeetham.
 - Currently studying in the field of Artificial Intelligence Engineering.
 - I'm interested in iOS App Development ,Web Development ,Data Science.
 - 🔭 I’m currently working on Search Engine Based on Hadoop MapReduce
