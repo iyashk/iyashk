@@ -6,6 +6,11 @@
 - I'm interested in iOS App Development ,Web Development ,Data Science.
 - 🔭 I’m currently working on Search Engine Based on Hadoop MapReduce
 - 🌱 I’m currently learning Swift and Hadoop
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" /></p>
+
 ## ⚡ Fun fact: "Creeper" was the first ever computer virus.
 
 Creeper was the first computer virus developed in 1971. It was created as an experiment to see how it could spread between computers and displayed a message, “I’m the Creeper, catch me if you can!”
