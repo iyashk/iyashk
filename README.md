@@ -36,7 +36,7 @@ Creeper was the first computer virus developed in 1971. It was created as an exp
 
 
 [<img height = 48 width = 48 align="left" alt="codeSTACKr | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />](https://www.instagram.com/_iyashk/)
-[<img height = 48 width = 48 align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />](https://www.linkedin.com/in/yashwanth-kiran-7401b1211/)
+[<img height = 48 width = 48 align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />](https://www.linkedin.com/in/iyashk)
 [<img height = 48 width = 48 align="left" alt="codeSTACKr | Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](yashwanthkiran2624@gmail.com)
 
 
