@@ -33,10 +33,11 @@ Creeper was the first computer virus developed in 1971. It was created as an exp
 </p>
 
 ## Catch me ONLINE:
+<a style="padding-left:25px;" href="mailto:yashwanthkiran2624@gmail.com"><img height="48" width="48" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" /></a>
+<a style="padding-left:25px;" href="https://www.instagram.com/_iyashk/"><img height="48" width="48" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
+<a style="padding-left:25px;" href="https://www.linkedin.com/in/iyashk"><img height="48" width="48" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" /></a>
 
 
-[<img height = 48 width = 48 align="left" alt="codeSTACKr | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />](https://www.instagram.com/_iyashk/)
-[<img height = 48 width = 48 align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />](https://www.linkedin.com/in/iyashk)
-[<img height = 48 width = 48 align="left" alt="codeSTACKr | Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](yashwanthkiran2624@gmail.com)
+
 
 
