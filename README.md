@@ -4,19 +4,15 @@
 <code>                                 - Yashwanth Kiran</code>
 
 
-<p align="center">
+### Me & Myself:
+<ul list-style-type="square">
+<li > I'm an Undergrad Student at Amrita Viswa Vidyapeetham.</li>
+<li> Currently studying in the field of Artificial Intelligence Engineering.
+<li> I'm interested in iOS App Development ,Web Development ,Data Science.
+<li> 🔭 I’m currently working on Search Engine Based on Hadoop MapReduce
+<li> 🌱 I’m currently learning Swift and Hadoop
 
-### About Myself
-</p>
-<p>
-<hr>
-- I'm an Undergrad Student at Amrita Viswa Vidyapeetham.
-- Currently studying in the field of Artificial Intelligence Engineering.
-- I'm interested in iOS App Development ,Web Development ,Data Science.
-- 🔭 I’m currently working on Search Engine Based on Hadoop MapReduce
-- 🌱 I’m currently learning Swift and Hadoop
-
-</p>
+</ul>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" /></p>
