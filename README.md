@@ -1,12 +1,22 @@
-##                                                       Hi there 👋
-                                                                                                - Yashwanth Kiran
-## About Myself
+<h1 align="center" >Hi there 👋 </h1.
+
+
+<code>                                 - Yashwanth Kiran</code>
+<hr>
+
+<p align="center">
+
+### About Myself
+</p>
+<p>
+<hr>
 - I'm an Undergrad Student at Amrita Viswa Vidyapeetham.
 - Currently studying in the field of Artificial Intelligence Engineering.
 - I'm interested in iOS App Development ,Web Development ,Data Science.
 - 🔭 I’m currently working on Search Engine Based on Hadoop MapReduce
 - 🌱 I’m currently learning Swift and Hadoop
 
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" /></p>
