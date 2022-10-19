@@ -3,6 +3,8 @@
 
 <code>                                 - Yashwanth Kiran</code>
 
+<p align = "center"> Coder | Web Developer </p>
+
 
 ### Me & Myself:
 <ul list-style-type="square">
