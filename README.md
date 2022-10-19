@@ -42,9 +42,9 @@ Creeper was the first computer virus developed in 1971. It was created as an exp
 <h3 align="center">Tools I use:</h3>
 <p align = "center">
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="pandas" width="40" height="40"/> </a> 
-  
-</p>  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="pandas" width="40" height="40"/> </a>  
+<a href="https://developer.apple.com/xcode/features/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/da/Icon_512x512_Normal%402xxcode.png/revision/latest/scale-to-width-down/250?cb=20200917151913" alt="" width="48" height="48"/> </a>  
+</p>   
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
