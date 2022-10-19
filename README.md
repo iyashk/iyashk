@@ -35,11 +35,18 @@ Creeper was the first computer virus developed in 1971. It was created as an exp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" alt="pandas" width="40" height="40"/> </a> 
+
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Tools I use:</h3>
+<p align = "center">
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="pandas" width="40" height="40"/> </a> 
+  
+</p>  
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a style="padding-left:25px;" href="mailto:yashwanthkiran2624@gmail.com"><img height="48" width="48" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" /></a>
 <a style="padding-left:25px;" href="https://www.instagram.com/_iyashk/"><img height="48" width="48" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
