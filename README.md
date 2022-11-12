@@ -19,10 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" /></p>
 
-## ⚡ Fun fact: "Creeper" was the first ever computer virus.
-
-Creeper was the first computer virus developed in 1971. It was created as an experiment to see how it could spread between computers and displayed a message, “I’m the Creeper, catch me if you can!”
-
 <h2 align="center"> Languages </h2>
 <p align="center">
 <a href="https://developer.apple.com/swift/" target="_blank" > <img src="https://cdn.cdnlogo.com/logos/s/66/swift.svg" alt="swift" width="40" height="40"/> </a> </p>
