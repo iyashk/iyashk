@@ -1,9 +1,8 @@
-<h1 align="center" >Hi there 👋 </h1.
-
-
-<code>                                 - Yashwanth Kiran</code>
-
+<h1 align="center"> Hi there 👋,Yashwanth Kiran
 <p align = "center"> Coder | Web Developer </p>
+</h1>
+
+
 
 
 ### Me & Myself:
