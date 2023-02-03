@@ -13,18 +13,40 @@
 </ul>
 
 <p align = "center" >
- &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" />
+ &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
 </p>
 
+<div>
+ 
+ <p> <img align = "right" src = "https://stories.freepiklabs.com/storage/19001/website-setup-pana-1680.png" width = "400" height="auto"/></p>
+ <p>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashk&show_icons=true&locale=en&layout=full" alt="iyashk" /></p>
+<h3> Connect With Me: </h3> 
+<p align="center">
+<a style="padding-left:25px;" href="mailto:yashwanthkiran2624@gmail.com"><img height="48" width="48" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" /></a>
+<a style="padding-left:25px;" href="https://www.instagram.com/_iyashk/"><img height="48" width="48" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
+<a style="padding-left:25px;" href="https://www.linkedin.com/in/iyashk"><img height="48" width="48" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" /></a>
+<a style="padding-left:25px;" href="https://twitter.com/iyashk"><img height="48" width="48" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
+<a href="https://codepen.io/iyashk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iyashk" height="48" width="48" /></a>
+
+<a href="https://www.hackerrank.com/iyashk"><img height="48" width="48" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a>
+<a href="https://www.leetcode.com/iyashk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyashk" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" height="30" width="40" /></a>
+<a href="https://kaggle.com/iyashk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iyashk" height="30" width="40" /></a>
+</p>
+</div>
 
 <!-- 
 <p></p> -->
 
-<h3 align="left"> Languages </h3>
+
 <!-- <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" > <img src="https://cdn.cdnlogo.com/logos/s/66/swift.svg" alt="swift" width="40" height="40"/> </a> </p> -->
 <!-- swift -->
+&nbsp;
+&nbsp;
+&nbsp;
+<h2>Languages</h2>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="53" height=auto/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="52" height=auto/> </a> </br>
@@ -58,7 +80,7 @@
 <a href="https://developer.apple.com/xcode/features/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/da/Icon_512x512_Normal%402xxcode.png/revision/latest/scale-to-width-down/250?cb=20200917151913" alt="" width="48" height="48"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 </p>   
-
+<!-- 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a style="padding-left:25px;" href="mailto:yashwanthkiran2624@gmail.com"><img height="48" width="48" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" /></a>
@@ -66,14 +88,14 @@
 <a style="padding-left:25px;" href="https://www.linkedin.com/in/iyashk"><img height="48" width="48" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" /></a>
 <a style="padding-left:25px;" href="https://twitter.com/iyashk"><img height="48" width="48" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
 <a href="https://codepen.io/iyashk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iyashk" height="48" width="48" /></a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.leetcode.com/iyashk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyashk" height="30" width="40" /></a>
 <a style="padding-left:25px;" href="https://www.hackerrank.com/iyashk"><img height="48" width="48" border = "2px solid black" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" height="30" width="40" /></a>
 </p>
-
+ -->
 
 
 
