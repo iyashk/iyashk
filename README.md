@@ -10,9 +10,6 @@
 <li > I'm an Undergrad Student at Amrita Viswa Vidyapeetham.</li>
 <li> Currently studying in the field of Artificial Intelligence Engineering.
 <li> I'm interested in iOS App Development ,Web Development ,Data Science.
-<li> 🔭 I’m currently working on Search Engine Based on Hadoop MapReduce
-<li> 🌱 I’m currently learning Swift and Hadoop
-
 </ul>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" /></p>
 
