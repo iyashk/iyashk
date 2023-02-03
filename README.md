@@ -11,9 +11,15 @@
 <li> Currently studying in the field of Artificial Intelligence Engineering.
 <li> I'm interested in iOS App Development ,Web Development ,Data Science.
 </ul>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" /></p>
+<p align = "center" >
+ &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true&locale=en" alt="iyashk" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
+</p>
+
+
+<!-- 
+<p></p> -->
 
 <h2 align="center"> Languages </h2>
 <p align="center">
