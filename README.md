@@ -1,11 +1,8 @@
-<h1 align="center"> Hi there 👋, I'm Yashwanth Kiran
+<h1 align = "center"> Hi there 👋, I'm Yashwanth Kiran</h1>
 <p align = "center"> Coder | Web Developer </p>
-</h1>
-
-
-
 
 ### Me & Myself:
+
 <ul list-style-type="square">
 <li> I'm an Undergrad Student at Amrita Viswa Vidyapeetham.</li>
 <li> Currently studying in the field of Artificial Intelligence Engineering.
@@ -35,19 +32,21 @@
 <a href="https://www.leetcode.com/iyashk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyashk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" height="30" width="40" /></a>
 <a href="https://kaggle.com/iyashk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iyashk" height="30" width="40" /></a>
+
 </p>
 </div>
 
-<!-- 
+<!--
 <p></p> -->
-
 
 <!-- <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" > <img src="https://cdn.cdnlogo.com/logos/s/66/swift.svg" alt="swift" width="40" height="40"/> </a> </p> -->
 <!-- swift -->
+
 &nbsp;
 &nbsp;
 &nbsp;
+
 <h2>Languages</h2>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="53" height=auto/> </a> 
@@ -70,7 +69,6 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
-
 
 <h3 align="center">Tools I use:</h3>
 <p align = "center">
@@ -98,15 +96,3 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" height="30" width="40" /></a>
 </p>
  -->
-
-
-
-
-   
-
-
-  
-
-
-
-
