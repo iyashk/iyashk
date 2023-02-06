@@ -4,7 +4,7 @@
 
 ### Me & Myself:
 
-<ul list-style-type="square">
+<ul >
 <li> I'm an Undergrad Student at Amrita Viswa Vidyapeetham.</li>
 <li> Currently studying in the field of Artificial Intelligence Engineering.
 <li> I'm interested in iOS App Development ,Web Development ,Data Science.
@@ -12,7 +12,7 @@
 <br>
 
 <p align = "left" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk"/> <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashk&show_icons=true&locale=en&layout=compact" alt="iyashk" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
 </p>
