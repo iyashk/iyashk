@@ -89,7 +89,7 @@
 <a href="https://codepen.io/iyashk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iyashk" height="48" width="48" /></a>
 <a href="https://www.hackerrank.com/iyashk"><img height="48" width="48" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashwanthkiran2624/profile" height="48" width="48" /></a>
-<a href="https://kaggle.com/iyashk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iyashk" height="48" width="48" /></a>
+<a href="https://kaggle.com/iyashk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iyashk" height="46" width="46" /></a>
 
 <!-- <a href="https://www.leetcode.com/iyashk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iyashk" height="30" width="40" /></a> -->
 </p>
