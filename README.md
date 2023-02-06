@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there 👋, I'm Yashwanth Kiran</h1>
-<p align = "center"> Coder | Web Developer </p>
+<h2 align = "center"> Coder | Web Developer </h2>
 
 ### Me & Myself:
 
