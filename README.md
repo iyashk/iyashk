@@ -14,7 +14,7 @@
 <p align = "left" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashk&show_icons=true&locale=en&layout=compact" alt="iyashk" /> <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
-<img align = "right" src = "https://stories.freepiklabs.com/storage/19001/website-setup-pana-1680.png" width = "350" height="auto"/>
+<img align = "right" src = "https://stories.freepiklabs.com/storage/19001/website-setup-pana-1680.png" width = "310" height="auto"/>
 </p>
 
 <br>
