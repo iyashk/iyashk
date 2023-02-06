@@ -17,7 +17,6 @@
 <img align = "right" src = "https://stories.freepiklabs.com/storage/19001/website-setup-pana-1680.png" width = "310" height="auto"/>
 </p>
 
-<br>
 <div>
  
 <h3> Connect With Me: </h3> 
