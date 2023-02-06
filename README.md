@@ -13,7 +13,7 @@
 </ul>
 
 <p align = "center" >
- &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk" />
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
 </p>
 
