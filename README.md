@@ -12,9 +12,7 @@
 <br>
 
 <p align = "left" >
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk"/> <br> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashk&show_icons=true&locale=en&layout=compact" alt="iyashk" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashk&show_icons=true&locale=en&layout=compact" alt="iyashk" />
 </p>
 
 <div>
