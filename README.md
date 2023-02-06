@@ -14,12 +14,11 @@
 <p align = "left" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iyashk&show_icons=true" alt="iyashk"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyashk&show_icons=true&locale=en&layout=compact" alt="iyashk" /> <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyashk&" alt="iyashk" />
+<img align = "right" src = "https://stories.freepiklabs.com/storage/19001/website-setup-pana-1680.png" width = "400" height="auto"/>
 </p>
 
 <div>
  
- <p> <img align = "right" src = "https://stories.freepiklabs.com/storage/19001/website-setup-pana-1680.png" width = "400" height="auto"/></p>
-
 <h3> Connect With Me: </h3> 
 <p align="center">
 <a style="padding-left:25px;" href="mailto:yashwanthkiran2624@gmail.com"><img height="48" width="48" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" /></a>
