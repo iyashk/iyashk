@@ -17,7 +17,7 @@ body{
     background-repeat: no-repeat;
     background-position: fixed;
     font-family: Arial, Helvetica, sans-serif;
-    height: 100vh;
+    /* height: 100vh; */
 }
 section{
     margin:18% 5%;
