@@ -1,0 +1,159 @@
+/* about.html */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Fors;
+    src: url(fors.otf);
+}
+body{
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    /* color: rgb(255, 255, 255); */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.5);
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+}
+
+.logo{
+    display: grid;
+    place-content: center;
+    padding:0 2rem;
+    font-family: Fors;
+    font-size: 20px;
+}
+
+a,a:visited{
+    color: rgba(255,255,255);
+    /* color: rgba(255, 255, 255,0.1) !important; */
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+.active{
+    text-decoration: 3px dodgerblue underline;
+    text-underline-offset: 6px;
+}
+
+
+/* .active::after{
+    background-color: dodgerblue;
+    width: 40px;
+    height: 4px;
+    content: "";
+    margin-top: 3px;
+    border-radius: 5px;
+    border: 2px solid white;
+} */
+
+a:hover{
+    color: dodgerblue;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid black; */
+    padding-right: 20px;
+    gap: 2rem;
+    /* color: rgb(255, 255, 255); */
+    
+}
+ul li{
+    list-style-type: none;
+    
+}
+.contact:hover{
+    color: white;
+}
+.contact{
+    padding: 3px 16px;
+    background-color: dodgerblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    display: grid;
+    place-content: center;
+    cursor: pointer;
+    border: 1px solid dodgerblue;
+}
+
+.contact:active{
+    scale: 0.95;
+}
+.contact:hover{
+    scale: 1.05;
+}
+.toggle-button .hamburger{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    cursor: pointer;
+}
+.toggle-button{
+    display: none;
+}
+.line{
+    width: 25px;
+    content: "";
+    height: 3px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.dropdown{
+    display: none;
+    position: absolute;
+    right: calc(1.5rem - 4px) ;
+    top: 68px;
+    width: 300px;
+    background:rgba(255,255,255,0.1) ;
+    font-weight: 600;
+    backdrop-filter: blur(5px);
+    border-radius: 5px;
+    overflow: hidden;
+    height: 0;
+    transition: height 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.dropdown.open{
+    /* height: 100%; */
+    height: fit-content;
+}
+
+.dropdown li{
+    padding: 0.7rem;
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown .contact2{
+    width: 90%;
+}
+.hidden{
+    display: none;
+}
+@media screen and (max-width:992px){
+    nav{
+        display: none;
+    }
+    .contact1{
+        display: none;
+    }
+    .toggle-button,.dropdown{
+        display: block;
+    }
+    .contact2{
+        font-weight: 600;
+    }
+}

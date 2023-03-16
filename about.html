@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iyashk</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="/iyashk">Yashwanth Kiran</a>
+        </div>
+        <nav>
+            <ul>
+                <li class="active">
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="/iyashk/resume.html">Resume</a>
+                </li>
+                <li>
+                    <a href="/iyashk/projects.html">Portfolio</a>
+                </li>
+                <li>
+                    <a href="/iyashk/photos.html">Memories</a>
+                </li>
+            </ul>
+        </nav>
+
+        <a href="/iyashk/contact.html" class="contact contact1">Contact Me</a>
+        <div class="toggle-button">
+            <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+
+        </div>
+
+        <div class="dropdown open">
+            <ul>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="/iyashk/resume.html">Resume</a>
+                </li>
+
+                <li>
+                    <a href="/iyashk/projects.html">Portfolio</a>
+                </li>
+
+                <li>
+                    <a href="/iyashk/photos.html">Memories</a>
+                </li>
+
+                <li>
+                    <a href="/iyashk/contact.html" class="contact contact2">Contact Me</a>
+                </li>
+
+            </ul>
+        </div>
+    </header>
+    <main>
+    </main>
+    <footer>
+    </footer>
+
+
+    <script>
+        const toggleButton = document.getElementsByClassName("toggle-button")[0];
+        const toggleButtonIcon = document.getElementsByClassName("toggle-button .hamburger")[0];
+        const dropdownMenu = document.getElementsByClassName("dropdown")[0];
+        toggleButton.onclick = function () {
+            dropdownMenu.classList.toggle('open');
+            if (dropdownMenu.classList.contains('open')) {
+                toggleButton.innerHTML = `
+               <div class="cross ">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-x-lg"
+                    viewBox="0 0 16 16">
+                    <path
+                        d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
+                </svg>
+            </div>
+               `
+            }
+            else {
+                toggleButton.innerHTML = `
+                <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+                `
+            }
+
+        }
+    </script>
+</body>
+
+</html>
