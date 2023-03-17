@@ -1,4 +1,3 @@
-/* about.html */
 *{
     padding: 0;
     margin: 0;
@@ -12,10 +11,11 @@ body{
     background-image: url(../img/background.png);
     background-size: cover;
     background-repeat:no-repeat;
-    /* color: rgb(255, 255, 255); */
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     height: 100vh;
+    background-attachment: fixed;
 }
 
 header{
@@ -37,27 +37,9 @@ header{
 
 a,a:visited{
     color: rgba(255,255,255);
-    /* color: rgba(255, 255, 255,0.1) !important; */
     text-decoration: none;
     cursor: pointer;
-    
 }
-.active{
-    text-decoration: 3px dodgerblue underline;
-    text-underline-offset: 6px;
-}
-
-
-/* .active::after{
-    background-color: dodgerblue;
-    width: 40px;
-    height: 4px;
-    content: "";
-    margin-top: 3px;
-    border-radius: 5px;
-    border: 2px solid white;
-} */
-
 a:hover{
     color: dodgerblue;
 }
@@ -67,19 +49,17 @@ nav ul{
     /* border: 2px solid black; */
     padding-right: 20px;
     gap: 2rem;
-    /* color: rgb(255, 255, 255); */
-    
+    color: rgb(255, 255, 255);
 }
 ul li{
     list-style-type: none;
-    
 }
 .contact:hover{
     color: white;
 }
 .contact{
     padding: 3px 16px;
-    background-color: dodgerblue;
+    background-color: rgba(30, 144, 255,0.3);
     color: white;
     text-decoration: none;
     border-radius: 50px;
@@ -136,7 +116,6 @@ ul li{
     display: flex;
     justify-content: center;
 }
-
 .dropdown .contact2{
     width: 90%;
 }
