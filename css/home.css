@@ -34,8 +34,51 @@ main{
     padding: 20px 0;
     font-family: Arial, Helvetica, sans-serif;
     color: rgba(255, 255, 255,0.8);
+    display: inline-flex;
 }
+.subtitle .static{
 
+    color: rgba(255, 255, 255,0.8);
+}
+.subtitle .dynamic{
+    margin-left: 12px;
+    line-height: 25px;
+    height: 25px;
+    /* background-color: dodgerblue; */
+    overflow: hidden;
+    
+    
+}
+.dynamic li{
+
+    position: relative;
+    top: 0;
+    animation: slide 6s steps(3) infinite;
+}
+@keyframes slide{
+    100%{
+        top: -75px;
+    }
+}
+.subtitle .dynamic li span{
+    position: relative;
+}
+.subtitle .dynamic li span::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    border-left: 5px solid dodgerblue;
+    animation: typing 2s steps(17) infinite;
+    background-color: black;
+}
+@keyframes typing {
+    100%{
+        left:100%;
+        margin: 0 -35px 0 35px;
+    }
+}
 .underline{
     color: rgba(255, 255, 255,0.8);
     text-decoration: 4px dodgerblue underline;
@@ -89,4 +132,11 @@ div ul li a{
     display: grid;
     place-content: center;
     border-radius: 50%;
+}
+
+
+@keyframes typing {
+    100%{
+        left:100%;
+    }
 }
