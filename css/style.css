@@ -122,6 +122,17 @@ ul li{
 .hidden{
     display: none;
 }
+
+.active{
+    color: white;
+    padding-bottom: 4px;
+    border-bottom: 4px solid dodgerblue;
+    border-radius: 2px;
+}
+.active:hover{
+    color: white;
+}
+
 @media screen and (max-width:992px){
     nav{
         display: none;

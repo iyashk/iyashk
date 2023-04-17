@@ -1,0 +1,206 @@
+.head{
+    padding: 1rem;
+    font-family: Fors;
+    font-size: 1rem;
+}
+.header{
+    position: fixed;
+}
+html{
+    background-color: black;
+}
+.tag{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 14px;
+}
+body{
+    background-position: fixed;
+}
+.side-line{
+    content: "";
+    width: 150px;
+    height: 2px;
+    background-color: dodgerblue;
+}
+span{
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 255,0.6);
+    letter-spacing: 3px;
+    display: block;
+}
+main{
+    margin: 2rem;
+    /* background-color: rgba(51, 51, 51,0.5); */
+    background-color: rgba(0, 0, 0, 0.7);
+    /* border: 2px solid white; */
+    padding: 1.5rem;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+    margin:0 1rem ;
+}
+.info h1{
+    /* color:rgba(251, 251, 251,0.9); */
+    color: dodgerblue;
+    font-family: Fors;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+.info p{
+    color: white;
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: 1.5rem;
+}
+.info .p1{
+    font-style: italic;
+    letter-spacing: 1px;
+
+}
+.profile .image img{
+    max-height: 400px;
+    border: 2px solid silver;
+}
+
+.items{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    gap: 2rem;
+}
+.list-in:before{
+    content: ">";
+    font-size: 22px;
+    margin-right: 10px;
+    color: dodgerblue;
+    font-weight: 100;
+}
+.list-in{
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    display: inline;
+}
+li{
+    font-size: 16px;
+    font-weight: lighter;
+    white-space: nowrap;
+    margin-bottom: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    /* background-color: rgba(0, 0, 0, 0.7); */
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.cards div{
+    /* background-color: rgba(0, 0, 0, 0.7); */
+    background-color: rgba(51, 51, 51,0.5);
+
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.cards div h1{
+    display: inline;
+    color: white;
+}
+
+.skills{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 1rem;
+    margin:0 1rem ;
+    margin-bottom: 1rem;
+}
+
+.container {
+    background-color: rgba(51, 51, 51,0.5); 
+    margin-top: 0.5rem;
+    height: 0.7rem;
+}
+
+.skill {
+    background-color: dodgerblue;
+    color: white;
+    text-align: right;
+    height: 0.7rem;
+    font-size: 0.6rem;
+}
+.skill-item .p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.html {
+    width: 100%;
+}
+
+.php {
+    width: 90%;
+}
+.js{
+    width: 80%;
+}
+.node{
+    width: 60%;
+}
+.bootstrap{
+    width: 90%;
+}
+.http{
+    width: 70%;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: lighter;
+    text-align: center;
+    padding: 2rem;
+    color: #333;
+}
+hr{
+    margin: 0;
+    border-color: rgba(51, 51, 51,0.7);
+}
+.others{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 1rem;
+    margin:0 1rem ;
+}
+.other-items{
+    background-color: rgba(51, 51, 51,0.5); 
+    padding: 1.5rem;
+}
+
+.interests{
+    margin:0 1rem ;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 1rem;
+}
+.interest{
+    background-color: rgba(51, 51, 51,0.5); 
+    padding: 1.5rem;
+    text-align: center;
+    border-radius: 3px;
+}
+.interest h1{
+    font-size: 1rem;
+}
