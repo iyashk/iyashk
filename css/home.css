@@ -100,7 +100,12 @@ li{
 .active{
     color: white;
 }
-
+.active:hover{
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    padding-bottom:0 ;
+}
 .active::after{
     background-color: dodgerblue;
     width: 40px;
@@ -109,10 +114,16 @@ li{
     margin-top: 3px;
     border-radius: 5px;
 }
-a:hover{
-    color: dodgerblue;
+.pages a:hover{
+    color: white;
+    width: 80%;
+    padding-bottom: 4px;
+    border-bottom: 4px solid dodgerblue;
+    border-radius: 2px;
 }
-
+li a .bi:hover{
+    width: 100%;
+}
 .social ul{
     display: flex;
     flex-direction: row;
