@@ -25,7 +25,9 @@ body{
 }
 main{
     height: 100vh;
-    padding: 18% 5%;
+    display: grid;
+    align-items: center;
+    padding: 3rem;
 }
 .heading{
     font-size: 3rem;
@@ -307,3 +309,32 @@ header{
         display: inline;
     }
 }
+@media screen and (max-width:768px){
+    main{
+        display: grid;
+        place-content: center;
+        padding: 3rem;
+        text-align: center;
+    }
+    .dynamic{
+        display: none;
+    }
+    .hyd{
+        display: inline;
+        line-height: 2rem;
+    }
+    .subtitle{
+        text-align: left;
+        display: none;
+    }
+    .social ul{
+        justify-content: center;
+    }
+    .pages{
+        margin-top: 1rem;
+    }
+    .pages nav ul{
+        justify-content: center;
+    }
+}
+
