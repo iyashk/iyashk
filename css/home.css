@@ -100,7 +100,7 @@ li{
 .active{
     color: white;
 }
-.active:hover{
+.pages nav ul li .active:hover{
     text-decoration: none;
     border: none;
     width: 100%;
