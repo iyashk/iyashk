@@ -79,47 +79,47 @@
         </div>
         <div class="filter">
             <ul>
-                <li class="current">All</li>
-                <li>Web</li>
-                <li>AI/ ML/ DL</li>
-                <li>Others</li>
+                <li data-filter="all" class="list current">All</li>
+                <li data-filter="web" class="list ">Web</li>
+                <li data-filter="ml" class="list ">AI/ ML/ DL</li>
+                <li data-filter="other" class="list ">Others</li>
             </ul>
         </div>
         <div class="projects">
-            <div class="proect-items web">
+            <div data-filter="web" class="proect-items">
                 <h2>AI enabled Tic-Tac-Toe</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="ml" class="proect-items">
                 <h2>Picasso Art Bot</h2>
             </div>
-            <div class="proect-items web">
+            <div data-filter="web" class="proect-items">
                 <h2>Advanced Photo Editor</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="ml" class="proect-items">
                 <h2>Pneumonia and COVID-19 detection using CNN</h2>
             </div>
-            <div class="proect-items web">
+            <div data-filter="web" class="proect-items">
                 <h2>Wordle Clone</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="other" class="proect-items">
                 <h2>Sudoku Validator using Multi-Threading</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="ml" class="proect-items">
                 <h2>Car Price Predictor</h2>
             </div>
-            <div class="proect-items web">
+            <div data-filter="web" class="proect-items">
                 <h2>Portfolio using Boostrap</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="other" class="proect-items">
                 <h2>Chess Game using Socket Programming</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="other" class="proect-items">
                 <h2>Tic-Tac-Toe using Jack programming</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="other" class="proect-items">
                 <h2>SDN based Firewall</h2>
             </div>
-            <div class="proect-items">
+            <div data-filter="ml" class="proect-items">
                 <h2>Boston House Prediction</h2>
             </div>
         </div>
@@ -241,6 +241,25 @@
             popup.classList.toggle("hidden")
         }
     })
+
+    let list = Array.from(document.querySelectorAll(".list"))
+    list.forEach((item) => {
+        item.addEventListener('click', () => {
+            for (let j = 0; j < list.length; j++) {
+                list[j].classList.remove("current")
+            }
+            item.classList.add("current")
+            let dataFilter = item.getAttribute("data-filter")
+            console.log(dataFilter)
+            pi.forEach((element) => {
+                element.classList.add("hidden")
+                if (element.getAttribute("data-filter") == dataFilter || item.getAttribute("data-filter") == "all") {
+                    element.classList.remove("hidden")
+                }
+            })
+        })
+    })
+
 </script>
 
 </html>
