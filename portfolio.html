@@ -18,16 +18,16 @@
         <nav>
             <ul>
                 <li>
-                    <a class="" href="/iyashk">Home</a>
+                    <a href="/iyashk">Home</a>
                 </li>
                 <li>
                     <a href="/iyashk/about.html">About</a>
                 </li>
                 <li>
-                    <a href="#">Resume</a>
+                    <a href="/iyashk/resume.html">Resume</a>
                 </li>
                 <li>
-                    <a class="active" href="/iyashk/portfolio.html">Portfolio</a>
+                    <a class="active" href="#">Portfolio</a>
                 </li>
             </ul>
         </nav>
@@ -54,10 +54,10 @@
                     <a href="/iyashk/resume.html">Resume</a>
                 </li>
                 <li>
-                    <a href="/iyashk/projects.html">Portfolio</a>
+                    <a href="#">Portfolio</a>
                 </li>
                 <li>
-                    <a href="#" class="contact contact2 active">Contact Me</a>
+                    <a href="/iyashk/contact.html" class="contact contact2">Contact Me</a>
                 </li>
             </ul>
         </div>
@@ -87,23 +87,109 @@
         </div>
         <div class="projects">
             <div class="proect-items web">
-                <img src="img/tic-tac-toe.png" alt="">
                 <h2>AI enabled Tic-Tac-Toe</h2>
             </div>
             <div class="proect-items">
-                <img src="img/picasso.jpg" alt="">
                 <h2>Picasso Art Bot</h2>
             </div>
-            <div class="proect-items web">Advanced Photo Editor</div>
-            <div class="proect-items">Pneumonia and COVID-19 detection using CNN</div>
-            <div class="proect-items web">Wordle Clone</div>
-            <div class="proect-items">Sudoku Validator using Multi-Threading</div>
-            <div class="proect-items">Car Price Predictor</div>
-            <div class="proect-items web">Portfolio using Boostrap</div>
-            <div class="proect-items">Chess Game using Socket Programming</div>
-            <div class="proect-items">Tic-Tac-Toe using Jack programming</div>
-            <div class="proect-items">SDN based Firewall</div>
-            <div class="proect-items">Boston House Prediction</div>
+            <div class="proect-items web">
+                <h2>Advanced Photo Editor</h2>
+            </div>
+            <div class="proect-items">
+                <h2>Pneumonia and COVID-19 detection using CNN</h2>
+            </div>
+            <div class="proect-items web">
+                <h2>Wordle Clone</h2>
+            </div>
+            <div class="proect-items">
+                <h2>Sudoku Validator using Multi-Threading</h2>
+            </div>
+            <div class="proect-items">
+                <h2>Car Price Predictor</h2>
+            </div>
+            <div class="proect-items web">
+                <h2>Portfolio using Boostrap</h2>
+            </div>
+            <div class="proect-items">
+                <h2>Chess Game using Socket Programming</h2>
+            </div>
+            <div class="proect-items">
+                <h2>Tic-Tac-Toe using Jack programming</h2>
+            </div>
+            <div class="proect-items">
+                <h2>SDN based Firewall</h2>
+            </div>
+            <div class="proect-items">
+                <h2>Boston House Prediction</h2>
+            </div>
+        </div>
+        <div class="popup hidden">
+            <section class="cross ">
+                <h2>Picasso Art Bot</h2>
+                <button>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                        class="bi bi-x-lg" viewBox="0 0 16 16">
+                        <path
+                            d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
+                    </svg>
+
+                </button>
+            </section>
+            <div>
+                <img src="img/tic-tac-toe.png" alt="">
+                <div class="prj-info">
+                    <ul>
+                        <li class="prj1">
+                            <h3>Project information</h3>
+
+                            <p>
+                                Timeline : Jul 2022
+                            </p>
+                            <strong>Technologies Used : </strong> <em>Python, C++, <abbr
+                                    title="Robot Operating System">ROS</abbr>,
+                                OpenCV.</em>
+                            <ul>
+                                <li>
+                                    A hardware implemented robot using Raspberry Pi microprocessor, motor driver and
+                                    simple
+                                    robot kit.
+                                </li>
+                                <li>
+                                    Developed an interface using python, which will take images that are either stored
+                                    locally or can be
+                                    fetched using an external camera.
+                                </li>
+                                <li>
+                                    This image now fed to a program that commands a turtlesim bot in a ROS simulation to
+                                    trace the contour of
+                                    the input image. The contour can also be tuned with adjustments made to the noise,
+                                    reducing the complexity
+                                    etc.
+                                </li>
+                                <li>
+                                    Now for every closed loop in the contour, with the help of multi-threading a new
+                                    turtlesim bot is
+                                    generated and traces the contour.
+                                </li>
+                                <li>
+                                    The tracing is simulated in the interface developed and once the image is traced by
+                                    all
+                                    the bots the
+                                    program now commands the hardware implemented bot to sketch the contour on a piece
+                                    of
+                                    canvas.
+                                </li>
+                            </ul>
+                            <br>
+                            <a target="_blank" href="https://github.com/iyashk/Picasso-Art-Bot">Check This on Github</a>
+                        </li>
+                        <li>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
 
     </main>
@@ -143,6 +229,18 @@
         }
 
     }
+
+    const button = document.getElementsByTagName("button")[0];
+    const popup = document.getElementsByClassName("popup")[0];
+    const pi = Array.from(document.getElementsByClassName("proect-items"));
+    button.onclick = function () {
+        popup.classList.toggle("hidden")
+    }
+    pi.forEach((item) => {
+        item.onclick = function () {
+            popup.classList.toggle("hidden")
+        }
+    })
 </script>
 
 </html>

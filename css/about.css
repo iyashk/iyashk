@@ -187,6 +187,10 @@ hr{
 .other-items{
     background-color: rgba(51, 51, 51,0.5); 
     padding: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 1rem;
 }
 
 .interests{
