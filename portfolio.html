@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@iyashk - Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/portfolio.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="/iyashk">Yashwanth Kiran</a>
+        </div>
+        <nav>
+            <ul>
+                <li>
+                    <a class="" href="/iyashk">Home</a>
+                </li>
+                <li>
+                    <a href="/iyashk/about.html">About</a>
+                </li>
+                <li>
+                    <a href="#">Resume</a>
+                </li>
+                <li>
+                    <a class="active" href="/iyashk/portfolio.html">Portfolio</a>
+                </li>
+            </ul>
+        </nav>
+
+        <a href="/iyashk/contact.html" class="contact contact1">Contact Me</a>
+        <div class="toggle-button">
+            <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+
+        </div>
+
+        <div class="dropdown">
+            <ul>
+                <li>
+                    <a href="/iyashk/index.html">Home</a>
+                </li>
+                <li>
+                    <a href="/iyashk/about.html">About</a>
+                </li>
+                <li>
+                    <a href="/iyashk/resume.html">Resume</a>
+                </li>
+                <li>
+                    <a href="/iyashk/projects.html">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#" class="contact contact2 active">Contact Me</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <div class="head">
+
+            <div class="tag">
+                <span>
+                    PORTFOLIO
+                </span>
+                <span class="side-line">
+
+                </span>
+            </div>
+            <h1>
+                MY WORKS
+            </h1>
+        </div>
+        <div class="filter">
+            <ul>
+                <li class="current">All</li>
+                <li>Web</li>
+                <li>AI/ ML/ DL</li>
+                <li>Others</li>
+            </ul>
+        </div>
+        <div class="projects">
+            <div class="proect-items web">
+                <img src="img/tic-tac-toe.png" alt="">
+                <h2>AI enabled Tic-Tac-Toe</h2>
+            </div>
+            <div class="proect-items">
+                <img src="img/picasso.jpg" alt="">
+                <h2>Picasso Art Bot</h2>
+            </div>
+            <div class="proect-items web">Advanced Photo Editor</div>
+            <div class="proect-items">Pneumonia and COVID-19 detection using CNN</div>
+            <div class="proect-items web">Wordle Clone</div>
+            <div class="proect-items">Sudoku Validator using Multi-Threading</div>
+            <div class="proect-items">Car Price Predictor</div>
+            <div class="proect-items web">Portfolio using Boostrap</div>
+            <div class="proect-items">Chess Game using Socket Programming</div>
+            <div class="proect-items">Tic-Tac-Toe using Jack programming</div>
+            <div class="proect-items">SDN based Firewall</div>
+            <div class="proect-items">Boston House Prediction</div>
+        </div>
+
+    </main>
+    <hr>
+    <footer>
+        <div>
+            &copy; Yashwanth Kiran
+        </div>
+    </footer>
+
+</body>
+<script>
+    const toggleButton = document.getElementsByClassName("toggle-button")[0];
+    const toggleButtonIcon = document.getElementsByClassName("toggle-button .hamburger")[0];
+    const dropdownMenu = document.getElementsByClassName("dropdown")[0];
+    toggleButton.onclick = function () {
+        dropdownMenu.classList.toggle('open');
+        if (dropdownMenu.classList.contains('open')) {
+            toggleButton.innerHTML = `
+           <div class="cross ">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-x-lg"
+                viewBox="0 0 16 16">
+                <path
+                    d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
+            </svg>
+        </div>
+           `
+        }
+        else {
+            toggleButton.innerHTML = `
+            <div class="hamburger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+            `
+        }
+
+    }
+</script>
+
+</html>

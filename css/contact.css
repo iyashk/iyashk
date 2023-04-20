@@ -9,6 +9,7 @@ html{
 body{
     background-attachment: fixed;
     padding-top: 5rem;
+
 }
 header{
     background-color: rgba(0, 0, 0,0.6);  
@@ -173,5 +174,21 @@ hr{
     .box,input{
         width: 100%;
     }
-
+    main{
+        margin: 1rem;
+        padding: 1rem;
+    }
+    .head{
+        font-size: 1rem;
+    }
+    .box .text h2{
+        font-size: 18px;
+    }
+    .box{
+        overflow: scroll;
+        padding: 1rem;
+    }
+    .contact-block{
+        padding: 1rem;
+    }
 }

@@ -49,9 +49,7 @@ main .contents{
     margin: 0 1rem;
     grid-gap: 1rem;
 }
-/* .summary,.education{
-    margin: 1rem 0;
-} */
+
 main .contents .summary div{
     padding:0 1.5rem;
     border-left: 2px solid #333;
