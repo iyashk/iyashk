@@ -28,9 +28,10 @@ main{
     display: grid;
     align-items: center;
     padding: 3rem;
+    margin-left: 3rem;
 }
 .heading{
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: bolder;
     font-family: Fors;
 }
@@ -273,6 +274,7 @@ header{
         place-content: center;
         padding: 3rem;
         text-align: center;
+        margin-left: 0;
     }
     header{
         visibility: visible;
@@ -280,6 +282,9 @@ header{
     .subtitle{
         text-align: left;
         display: none;
+    }
+    .heading{
+        font-size: 3rem;
     }
     .social ul{
         justify-content: center;
@@ -311,6 +316,7 @@ header{
         place-content: center;
         padding: 3rem;
         text-align: center;
+        margin-left: 0;
     }
     .dynamic{
         display: none;
