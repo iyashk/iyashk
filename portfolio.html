@@ -319,31 +319,47 @@
                                     <p>
                                         Timeline : June 2022
                                     </p>
-                                    <strong>Technologies Used : </strong> <em>Python, C++, <abbr
-                                            title="Robot Operating Systems">ROS</abbr>, OpenCV.</em>
+                                    <strong>Technologies Used : </strong>
+                                    <em>Keras, Python,
+                                        <abbr title="Python Imaging Library"> PIL</abbr>, Matplotlib,
+                                        Pandas.</em>
                                     <ul>
                                         <li>
-                                            A hardware implemented robot using Raspberry Pi microprocessor, motor driver
-                                            and simple robot kit.
+                                            A Deep Learning model based on
+                                            <abbr title="Convolutional Neural Networks">CNN</abbr>
+                                            that has the capablity to identify pneumonia and COVID-19
+                                            based on the X-ray images.
                                         </li>
                                         <li>
-                                            Developed an interface using python, which will take images that are either
-                                            stored locally or can be fetched using an external camera.
+                                            The model is trianed based on Chest X-rays of patients to
+                                            identify the affected areas of lungs.
+                                            <ul>
+                                                <em>COVID-19</em>
+                                                <li>
+                                                    the model consists of 3 hidden layers, with "ReLu" as
+                                                    the activation function.
+                                                </li>
+                                                <li>
+                                                    The dataset for COVID-19 detection is from Kaggle
+                                                    which consists of nearly 2328 patient's records.
+                                                </li>
+                                                <em>Pneumonia</em>
+                                                <li>
+                                                    This CNN model is consists of 5 hidden layers, with
+                                                    "ReLu" as the activation functions.
+                                                </li>
+                                                <li>
+                                                    The dataset for Pneumonia detection is also from
+                                                    Kaggle which consits of two classes : Pneumonia and
+                                                    Normal. There are almost 5863 records in the dataset.
+                                                </li>
+                                            </ul>
                                         </li>
                                         <li>
-                                            This image now fed to a program that commands a turtlesim bot in a ROS
-                                            simulation to trace the contour of the input image. The contour can also be
-                                            tuned with adjustments made to the noise, reducing the complexity etc.
-                                        </li>
-                                        <li>
-                                            Now for every closed loop in the contour, with the help of multi-threading a
-                                            new turtlesim bot is generated and traces the contour.
-                                        </li>
-
-                                        <li>
-                                            The tracing is simulated in the interface developed and once the image is
-                                            traced by all the bots the program now commands the hardware implemented bot
-                                            to sketch the contour on a piece of canvas.
+                                            Finally using the Pneumonia model we have obtained an
+                                            <strong>accuracy</strong> of <em>98.16%</em> and for the
+                                            COVID-19 model we have obtained an
+                                            <strong>accuracy</strong> of <em>97.5%</em>.
                                         </li>
                                     </ul>
                                     <br>
